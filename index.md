@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog!
-  #gaia torna con me#
+  # gaia torna con me #
 ---
