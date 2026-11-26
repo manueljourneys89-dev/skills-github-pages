@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog!:
-Gaia ti voglio con me:
-
+title: Welcome to my blog!
+  #gaia torna con me#
 ---
