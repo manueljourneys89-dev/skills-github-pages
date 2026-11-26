@@ -1,4 +1,5 @@
 ---
 title: Welcome to my blog!
 ---
-Gaia torna con me
+title: ciao
+questo è il mio blog
