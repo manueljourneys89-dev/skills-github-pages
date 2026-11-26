@@ -1,6 +1,4 @@
 ---
 title: Welcome to my blog!
-ciao
-
-
 ---
+Gaia torna con me
